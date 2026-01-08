@@ -1,4 +1,9 @@
+streamlit
 pandas
+pdfplumber
+pyodbc
 openpyxl
-matplotlib
-requests
+xlrd
+lxml
+html5lib
+beautifulsoup4
